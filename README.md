@@ -1,9 +1,12 @@
-# E-Shop
-E-Shop is an E-Commerce project with the following specification.
+# Alibi
 
-Technology : HTML , CSS , JavaScript , C# , Asp.net , SQL .
+ ## Description :
+  Alibi is a E-Commerce web application.
 
-Features :
+ ## Technology :
+ HTML , CSS , JavaScript , C# , Asp.net , SQL.
+
+ ## Features :
   * User Login/Signup
   * Add Product into Cart/Buy now.
   * Manage User Personal Details/Address.
