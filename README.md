@@ -1,7 +1,7 @@
-# Alibi
+# E-Shop
 
  ## Description :
-  Alibi is a E-Commerce web application.
+  E-Shop is Repository that contain Alibi, an E-Commerce web application.
 
  ## Technology :
  HTML , CSS , JavaScript , C# , Asp.net , SQL.
@@ -17,4 +17,3 @@
   * Update product/Manage Stock
   * Update Product Rate/Offer/Images
   * Manage user Activity
-
